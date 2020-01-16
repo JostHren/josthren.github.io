@@ -15,7 +15,8 @@
     {"id": 13, "win": ["Miro", "Vele", "Žagar", "Gselman", "Mani", "Robi", "Plavi"], "lost": ["Puhar", "Soso", "Arzenšek", "Mesko", "Žnider", "Tona", "Jernej"], "draw1": [], "draw2": []},
     {"id": 14, "win": ["Puhar", "Robi", "Jernej", "Miro", "Plavi"], "lost": ["Vele", "Jošt", "Gselman", "Soso", "Željko"], "draw1": ["Arzenšek", "Žagar", "Tona", "Mesko", "Mani"], "draw2": []},
     {"id": 15, "win": ["Puhar", "Mani", "Miro", "Arzenšek", "Gselman", "Jernej"], "lost": ["Vele", "Žagar", "Tona", "Medvar", "Žnider", "Plavi"], "draw1": [], "draw2": []},
-    {"id": 16, "win": [], "lost": [], "draw1": ["Puhar", "Mani", "Tona", "Plavi", "Gselman", "Žnider"], "draw2": ["Soso", "Žagar", "Mesko", "Jernej", "Firm", "Miro"]}
+    {"id": 16, "win": [], "lost": [], "draw1": ["Puhar", "Mani", "Tona", "Plavi", "Gselman", "Žnider"], "draw2": ["Soso", "Žagar", "Mesko", "Jernej", "Firm", "Miro"]},
+    {"id": 17, "win": ["Vele", "Miro", "Jernej", "Firm", "Medvar", "Gselman", "Tona"], "lost": ["Jošt", "Puhar", "Žagar", "Žnider", "Mani", "Željko", "Plavi"], "draw1": [], "draw2": []}
     ],
 "s1819" : [
     {"id": 1, "win": ["Arzenšek", "Mani", "Sonda", "Žagar", "Vele", "Tadej"], "lost": ["Jošt", "Jernej", "Puhar", "Gselman", "Soso", "Željko", "Mesko"], "draw1": [], "draw2": []},
